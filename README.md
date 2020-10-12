@@ -10,3 +10,6 @@
   <img align="left" alt="nichemarket's GitHub Stats" src="https://github-readme-stats-ecr7xi0ki.vercel.app/api?username=nichemarket&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Spotify](https://novatorem-jcz3071ff.vercel.app
+/api/spotify)](https://open.spotify.com/user/USER_NAME)
