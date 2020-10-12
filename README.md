@@ -11,5 +11,4 @@
 
 </details>
 
-[![Spotify](https://novatorem-jcz3071ff.vercel.app
-/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-jcz3071ff.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
