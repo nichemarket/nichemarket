@@ -1,6 +1,6 @@
 ## nichemarket
 
-[![Website](https://img.shields.io/github/package-json/v/nichemarket/tiny-react?label=mochalabs.cf&style=for-the-badge&url=https%3A%2F%2Fmochalabs.cf)](https://mochalabs.cf)
+[![Website](https://img.shields.io/github/package-json/v/nichemarket/niche-portfolio?label=nichemarket.ml&style=for-the-badge&url=https%3A%2F%2Fnichemarket.ml)](https://nichemarket.ml)
 
 <br />
 
