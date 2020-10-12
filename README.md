@@ -1,6 +1,6 @@
 ## nichemarket
 
-[![Website](https://img.shields.io/website?label=mochalabs.cf&style=for-the-badge&url=https%3A%2F%2Fmochalabs.cf)](https://mochalabs.cf)
+[![Website](https://img.shields.io/github/package-json/v/nichemarket/nationscord?label=mochalabs.cf&style=for-the-badge&url=https%3A%2F%2Fmochalabs.cf)](https://mochalabs.cf)
 
 <br />
 
