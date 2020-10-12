@@ -11,4 +11,10 @@
 
 </details>
 
+
+<details>
+  <summary>🎶 What I'm listening to</summary>
+  
 [![Spotify](https://novatorem-jcz3071ff.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+</details>
